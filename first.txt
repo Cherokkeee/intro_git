@@ -5,3 +5,4 @@
 ・gi rm
 ・git status
 ・git diff
+・git hoge
