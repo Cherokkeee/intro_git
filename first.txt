@@ -5,7 +5,5 @@
 ・gi rm
 ・git status
 ・git diff
-<<<<<<< HEAD
-=======
 ・git hoge
->>>>>>> 1b299dd64bcd82364651a82bac123569711fb7f6
+・atomにて
